@@ -3,7 +3,7 @@
 Le fichier `index.html` contient un modèle de page dans lequel vous renseignerez l'ensemble des informations et liens de vos divers projets pédagogiques.
 
 1. Connectez vous par FTP à votre espace d'hébergement.
-2. À la racine de votre espace web, créez un nouveau dossier nommé `MMI`.
+2. À la racine de votre espace web, créez un nouveau dossier nommé `MMI` (en lettres capitales). 
 3. Placez à l'intérieur de ce dossier le fichier `index.html` fourni dans ce repo.
 4. Complétez au fur et à mesure des projets les URLs demandées pour chaque projet :
     - URL de la maquette
