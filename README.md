@@ -1,6 +1,6 @@
 # Template MMI  projets
 
-Le fichier `index.html` contient un modèle de page dans lequel vous renseignerez l'ensemble des informations et liens de vos divers projets pédagogiques.
+Le fichier `index.html`, dans le dossier `MMI`, contient un modèle de page dans lequel vous devez renseigner l'ensemble des informations et liens de vos divers projets pédagogiques.
 
 1. Connectez vous par FTP à votre espace d'hébergement.
 2. À la racine de votre espace web (répertoire `web`), déposez le dossier `MMI` avec son contenu. 
